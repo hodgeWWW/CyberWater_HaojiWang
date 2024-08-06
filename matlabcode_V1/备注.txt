@@ -1,0 +1,20 @@
+clc; clear; close all; 
+
+这个code是在项目结束时用的Code
+用的pr， 33个model
+
+
+修改了lambda 和 tol来调节稀疏
+
+若要查询哪里修改了，搜索“改”
+
+
+
+connect_v2.mat是同时修改tol 和lambda， 其中，tol从1e-6改为1e-10，lambda从[0.01,0.1]改为[0.001,0.01]
+connect_v1.mat只修改了lambda
+connect_v0.mat没有修改lambda和tol
+
+修改了figure 7使保存relation matrix, 
+每次run main 函数时都会保存一个新的matrix
+要调用的话，使用：
+load 'connect.mat'
