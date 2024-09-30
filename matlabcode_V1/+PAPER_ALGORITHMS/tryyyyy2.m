@@ -1,1 +1,0 @@
-[ ZtrainSs, ZvalSs, ZtestSs, XtrainSs, XvalSs, XtestSs, YtrainSs, YvalSs, YtestSs ] = PREPAREDATA.getDataSetsRandomJoinTrainVal();
