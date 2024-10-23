@@ -1,3 +1,3 @@
-Please run HaojiWang.HaojiWang.m 
+Please run Glasso_CMIP.HaojiWang.m 
 
-Except the +HaojiWang folder, anything I changed can be found by searching "改", use "CTRL + F" to search in Matlab.
+Except the +Glasso_CMIP folder, anything I changed can be found by searching "改", use "CTRL + F" to search in Matlab.
